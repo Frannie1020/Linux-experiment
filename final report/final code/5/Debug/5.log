@@ -1,0 +1,68 @@
+﻿  CPluginController.cpp
+e:\2020.下\基于操作系统编程\实验\期末代码\5\cpluginenumerator.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\2020.下\基于操作系统编程\实验\期末代码\5\cpluginenumerator.h(13): error C2059: 语法错误:“public”
+e:\2020.下\基于操作系统编程\实验\期末代码\5\cpluginenumerator.h(13): error C2059: 语法错误:“:”
+e:\2020.下\基于操作系统编程\实验\期末代码\5\cpluginenumerator.h(14): error C2059: 语法错误:“)”
+e:\2020.下\基于操作系统编程\实验\期末代码\5\cpluginenumerator.h(15): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+e:\2020.下\基于操作系统编程\实验\期末代码\5\cpluginenumerator.h(15): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+e:\2020.下\基于操作系统编程\实验\期末代码\5\cpluginenumerator.h(17): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+e:\2020.下\基于操作系统编程\实验\期末代码\5\cpluginenumerator.h(21): error C2059: 语法错误:“}”
+e:\2020.下\基于操作系统编程\实验\期末代码\5\cpluginenumerator.h(21): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+e:\2020.下\基于操作系统编程\实验\期末代码\5\iprintplugin.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\2020.下\基于操作系统编程\实验\期末代码\5\iprintplugin.h(10): error C2059: 语法错误:“public”
+e:\2020.下\基于操作系统编程\实验\期末代码\5\iprintplugin.h(10): error C2059: 语法错误:“:”
+e:\2020.下\基于操作系统编程\实验\期末代码\5\iprintplugin.h(11): error C2059: 语法错误:“)”
+e:\2020.下\基于操作系统编程\实验\期末代码\5\iprintplugin.h(11): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+e:\2020.下\基于操作系统编程\实验\期末代码\5\iprintplugin.h(11): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+e:\2020.下\基于操作系统编程\实验\期末代码\5\iprintplugin.h(13): error C2059: 语法错误:“}”
+e:\2020.下\基于操作系统编程\实验\期末代码\5\iprintplugin.h(13): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+e:\2020.下\基于操作系统编程\实验\期末代码\5\iprintplugin.h(15): error C2575: “Help”: 只有成员函数和基可以是虚拟的
+e:\2020.下\基于操作系统编程\实验\期末代码\5\iprintplugin.h(15): error C2059: 语法错误:“常数”
+e:\2020.下\基于操作系统编程\实验\期末代码\5\iprintplugin.h(16): error C2575: “Print”: 只有成员函数和基可以是虚拟的
+e:\2020.下\基于操作系统编程\实验\期末代码\5\iprintplugin.h(16): error C2059: 语法错误:“常数”
+e:\2020.下\基于操作系统编程\实验\期末代码\5\iprintplugin.h(17): error C2575: “GetID”: 只有成员函数和基可以是虚拟的
+e:\2020.下\基于操作系统编程\实验\期末代码\5\iprintplugin.h(17): error C2059: 语法错误:“常数”
+e:\2020.下\基于操作系统编程\实验\期末代码\5\iprintplugin.h(18): error C2575: “GetNames”: 只有成员函数和基可以是虚拟的
+e:\2020.下\基于操作系统编程\实验\期末代码\5\iprintplugin.h(18): error C2059: 语法错误:“常数”
+e:\2020.下\基于操作系统编程\实验\期末代码\5\iprintplugin.h(19): error C2575: “Function”: 只有成员函数和基可以是虚拟的
+e:\2020.下\基于操作系统编程\实验\期末代码\5\iprintplugin.h(19): error C2059: 语法错误:“常数”
+e:\2020.下\基于操作系统编程\实验\期末代码\5\cplugincontroller.cpp(8): fatal error C1083: 无法打开包括文件: “dlfcn.h”: No such file or directory
+  CPluginEnumerator.cpp
+e:\2020.下\基于操作系统编程\实验\期末代码\5\cpluginenumerator.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\2020.下\基于操作系统编程\实验\期末代码\5\cpluginenumerator.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\2020.下\基于操作系统编程\实验\期末代码\5\cpluginenumerator.h(13): error C2059: 语法错误:“public”
+e:\2020.下\基于操作系统编程\实验\期末代码\5\cpluginenumerator.h(13): error C2059: 语法错误:“:”
+e:\2020.下\基于操作系统编程\实验\期末代码\5\cpluginenumerator.h(14): error C2059: 语法错误:“)”
+e:\2020.下\基于操作系统编程\实验\期末代码\5\cpluginenumerator.h(15): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+e:\2020.下\基于操作系统编程\实验\期末代码\5\cpluginenumerator.h(15): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+e:\2020.下\基于操作系统编程\实验\期末代码\5\cpluginenumerator.h(17): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+e:\2020.下\基于操作系统编程\实验\期末代码\5\cpluginenumerator.h(21): error C2059: 语法错误:“}”
+e:\2020.下\基于操作系统编程\实验\期末代码\5\cpluginenumerator.h(21): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+e:\2020.下\基于操作系统编程\实验\期末代码\5\cpluginenumerator.cpp(13): error C2027: 使用了未定义类型“CPluginEnumerator”
+  e:\2020.下\基于操作系统编程\实验\期末代码\5\cpluginenumerator.h(12): note: 参见“CPluginEnumerator”的声明
+e:\2020.下\基于操作系统编程\实验\期末代码\5\cpluginenumerator.cpp(22): error C2065: “pentry”: 未声明的标识符
+e:\2020.下\基于操作系统编程\实验\期末代码\5\cpluginenumerator.cpp(25): error C2065: “pentry”: 未声明的标识符
+e:\2020.下\基于操作系统编程\实验\期末代码\5\cpluginenumerator.cpp(29): error C2065: “pentry”: 未声明的标识符
+e:\2020.下\基于操作系统编程\实验\期末代码\5\cpluginenumerator.cpp(33): error C2065: “dir”: 未声明的标识符
+e:\2020.下\基于操作系统编程\实验\期末代码\5\cpluginenumerator.cpp(33): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+e:\2020.下\基于操作系统编程\实验\期末代码\5\cpluginenumerator.cpp(33): error C2365: “closedir”: 重定义；以前的定义是“函数”
+  d:\visualstudioide\vc\tools\msvc\14.16.27023\include\dirent.h(838): note: 参见“closedir”的声明
+e:\2020.下\基于操作系统编程\实验\期末代码\5\cpluginenumerator.cpp(34): error C2059: 语法错误:“return”
+e:\2020.下\基于操作系统编程\实验\期末代码\5\cpluginenumerator.cpp(35): error C2059: 语法错误:“}”
+e:\2020.下\基于操作系统编程\实验\期末代码\5\cpluginenumerator.cpp(35): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+  filemaxlen.cpp
+e:\2020.下\基于操作系统编程\实验\期末代码\5\filemaxlen.cpp(3): fatal error C1083: 无法打开包括文件: “unistd.h”: No such file or directory
+  fileword.cpp
+e:\2020.下\基于操作系统编程\实验\期末代码\5\fileword.cpp(4): fatal error C1083: 无法打开包括文件: “unistd.h”: No such file or directory
+  fileline.cpp
+e:\2020.下\基于操作系统编程\实验\期末代码\5\fileline.cpp(2): fatal error C1083: 无法打开包括文件: “unistd.h”: No such file or directory
+  specfileword.cpp
+e:\2020.下\基于操作系统编程\实验\期末代码\5\specfileword.cpp(3): fatal error C1083: 无法打开包括文件: “unistd.h”: No such file or directory
+  specfileline.cpp
+e:\2020.下\基于操作系统编程\实验\期末代码\5\specfileline.cpp(2): fatal error C1083: 无法打开包括文件: “unistd.h”: No such file or directory
+  main.cpp
+  filerange.cpp
+e:\2020.下\基于操作系统编程\实验\期末代码\5\filerange.cpp(1): fatal error C1083: 无法打开包括文件: “unistd.h”: No such file or directory
+  specfilerange.cpp
+e:\2020.下\基于操作系统编程\实验\期末代码\5\specfilerange.cpp(2): fatal error C1083: 无法打开包括文件: “unistd.h”: No such file or directory
+  正在生成代码...
