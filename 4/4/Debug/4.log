@@ -1,0 +1,128 @@
+﻿  CPluginController.cpp
+e:\2020.下\基于操作系统编程\实验\exp2\4\4\cplugincontroller.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\2020.下\基于操作系统编程\实验\exp2\4\4\cplugincontroller.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\2020.下\基于操作系统编程\实验\exp2\4\4\cplugincontroller.h(10): error C2059: 语法错误:“public”
+e:\2020.下\基于操作系统编程\实验\exp2\4\4\cplugincontroller.h(10): error C2059: 语法错误:“:”
+e:\2020.下\基于操作系统编程\实验\exp2\4\4\cplugincontroller.h(11): error C2062: 意外的类型“void”
+e:\2020.下\基于操作系统编程\实验\exp2\4\4\cplugincontroller.h(18): error C2059: 语法错误:“private”
+e:\2020.下\基于操作系统编程\实验\exp2\4\4\cpluginenumerator.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\2020.下\基于操作系统编程\实验\exp2\4\4\cpluginenumerator.h(9): error C2059: 语法错误:“public”
+e:\2020.下\基于操作系统编程\实验\exp2\4\4\cpluginenumerator.h(9): error C2059: 语法错误:“:”
+e:\2020.下\基于操作系统编程\实验\exp2\4\4\cpluginenumerator.h(10): error C2059: 语法错误:“)”
+e:\2020.下\基于操作系统编程\实验\exp2\4\4\cpluginenumerator.h(13): error C2059: 语法错误:“}”
+e:\2020.下\基于操作系统编程\实验\exp2\4\4\cpluginenumerator.h(13): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+e:\2020.下\基于操作系统编程\实验\exp2\4\4\iprintplugin.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\2020.下\基于操作系统编程\实验\exp2\4\4\iprintplugin.h(5): error C2059: 语法错误:“public”
+e:\2020.下\基于操作系统编程\实验\exp2\4\4\iprintplugin.h(5): error C2059: 语法错误:“:”
+e:\2020.下\基于操作系统编程\实验\exp2\4\4\iprintplugin.h(6): error C2059: 语法错误:“)”
+e:\2020.下\基于操作系统编程\实验\exp2\4\4\iprintplugin.h(8): error C2575: “Help”: 只有成员函数和基可以是虚拟的
+e:\2020.下\基于操作系统编程\实验\exp2\4\4\iprintplugin.h(8): error C2059: 语法错误:“常数”
+e:\2020.下\基于操作系统编程\实验\exp2\4\4\iprintplugin.h(9): error C2575: “Print”: 只有成员函数和基可以是虚拟的
+e:\2020.下\基于操作系统编程\实验\exp2\4\4\iprintplugin.h(9): error C2059: 语法错误:“常数”
+e:\2020.下\基于操作系统编程\实验\exp2\4\4\iprintplugin.h(10): error C2575: “GetID”: 只有成员函数和基可以是虚拟的
+e:\2020.下\基于操作系统编程\实验\exp2\4\4\iprintplugin.h(10): error C2059: 语法错误:“常数”
+e:\2020.下\基于操作系统编程\实验\exp2\4\4\iprintplugin.h(11): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+e:\2020.下\基于操作系统编程\实验\exp2\4\4\iprintplugin.h(11): error C2059: 语法错误:“}”
+e:\2020.下\基于操作系统编程\实验\exp2\4\4\cplugincontroller.cpp(5): fatal error C1083: 无法打开包括文件: “dlfcn.h”: No such file or directory
+  CPluginEnumerator.cpp
+e:\2020.下\基于操作系统编程\实验\exp2\4\4\cpluginenumerator.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\2020.下\基于操作系统编程\实验\exp2\4\4\cpluginenumerator.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\2020.下\基于操作系统编程\实验\exp2\4\4\cpluginenumerator.h(9): error C2059: 语法错误:“public”
+e:\2020.下\基于操作系统编程\实验\exp2\4\4\cpluginenumerator.h(9): error C2059: 语法错误:“:”
+e:\2020.下\基于操作系统编程\实验\exp2\4\4\cpluginenumerator.h(10): error C2059: 语法错误:“)”
+e:\2020.下\基于操作系统编程\实验\exp2\4\4\cpluginenumerator.h(13): error C2059: 语法错误:“}”
+e:\2020.下\基于操作系统编程\实验\exp2\4\4\cpluginenumerator.h(13): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+e:\2020.下\基于操作系统编程\实验\exp2\4\4\cpluginenumerator.cpp(5): error C2027: 使用了未定义类型“CPluginEnumerator”
+  e:\2020.下\基于操作系统编程\实验\exp2\4\4\cpluginenumerator.h(8): note: 参见“CPluginEnumerator”的声明
+e:\2020.下\基于操作系统编程\实验\exp2\4\4\cpluginenumerator.cpp(6): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+e:\2020.下\基于操作系统编程\实验\exp2\4\4\cpluginenumerator.cpp(6): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+e:\2020.下\基于操作系统编程\实验\exp2\4\4\cpluginenumerator.cpp(6): error C2059: 语法错误:“}”
+e:\2020.下\基于操作系统编程\实验\exp2\4\4\cpluginenumerator.cpp(8): error C2027: 使用了未定义类型“CPluginEnumerator”
+  e:\2020.下\基于操作系统编程\实验\exp2\4\4\cpluginenumerator.h(8): note: 参见“CPluginEnumerator”的声明
+e:\2020.下\基于操作系统编程\实验\exp2\4\4\cpluginenumerator.cpp(9): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+e:\2020.下\基于操作系统编程\实验\exp2\4\4\cpluginenumerator.cpp(9): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+e:\2020.下\基于操作系统编程\实验\exp2\4\4\cpluginenumerator.cpp(12): error C2027: 使用了未定义类型“CPluginEnumerator”
+  e:\2020.下\基于操作系统编程\实验\exp2\4\4\cpluginenumerator.h(8): note: 参见“CPluginEnumerator”的声明
+e:\2020.下\基于操作系统编程\实验\exp2\4\4\cpluginenumerator.cpp(21): error C2065: “pentry”: 未声明的标识符
+e:\2020.下\基于操作系统编程\实验\exp2\4\4\cpluginenumerator.cpp(24): error C2065: “pentry”: 未声明的标识符
+e:\2020.下\基于操作系统编程\实验\exp2\4\4\cpluginenumerator.cpp(28): error C2065: “pentry”: 未声明的标识符
+e:\2020.下\基于操作系统编程\实验\exp2\4\4\cpluginenumerator.cpp(32): error C2065: “dir”: 未声明的标识符
+e:\2020.下\基于操作系统编程\实验\exp2\4\4\cpluginenumerator.cpp(32): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+e:\2020.下\基于操作系统编程\实验\exp2\4\4\cpluginenumerator.cpp(32): error C2365: “closedir”: 重定义；以前的定义是“函数”
+  d:\visualstudioide\vc\tools\msvc\14.16.27023\include\dirent.h(838): note: 参见“closedir”的声明
+e:\2020.下\基于操作系统编程\实验\exp2\4\4\cpluginenumerator.cpp(34): error C2059: 语法错误:“return”
+e:\2020.下\基于操作系统编程\实验\exp2\4\4\cpluginenumerator.cpp(35): error C2059: 语法错误:“}”
+e:\2020.下\基于操作系统编程\实验\exp2\4\4\cpluginenumerator.cpp(35): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+  f1.cpp
+e:\2020.下\基于操作系统编程\实验\exp2\4\4\iprintplugin.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\2020.下\基于操作系统编程\实验\exp2\4\4\iprintplugin.h(5): error C2059: 语法错误:“public”
+e:\2020.下\基于操作系统编程\实验\exp2\4\4\iprintplugin.h(5): error C2059: 语法错误:“:”
+e:\2020.下\基于操作系统编程\实验\exp2\4\4\iprintplugin.h(6): error C2059: 语法错误:“)”
+e:\2020.下\基于操作系统编程\实验\exp2\4\4\iprintplugin.h(8): error C2575: “Help”: 只有成员函数和基可以是虚拟的
+e:\2020.下\基于操作系统编程\实验\exp2\4\4\iprintplugin.h(8): error C2059: 语法错误:“常数”
+e:\2020.下\基于操作系统编程\实验\exp2\4\4\iprintplugin.h(9): error C2575: “Print”: 只有成员函数和基可以是虚拟的
+e:\2020.下\基于操作系统编程\实验\exp2\4\4\iprintplugin.h(9): error C2059: 语法错误:“常数”
+e:\2020.下\基于操作系统编程\实验\exp2\4\4\iprintplugin.h(10): error C2575: “GetID”: 只有成员函数和基可以是虚拟的
+e:\2020.下\基于操作系统编程\实验\exp2\4\4\iprintplugin.h(10): error C2059: 语法错误:“常数”
+e:\2020.下\基于操作系统编程\实验\exp2\4\4\iprintplugin.h(11): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+e:\2020.下\基于操作系统编程\实验\exp2\4\4\iprintplugin.h(11): error C2059: 语法错误:“}”
+e:\2020.下\基于操作系统编程\实验\exp2\4\4\f1.cpp(7): error C2504: “IPrintPlugin”: 未定义基类
+e:\2020.下\基于操作系统编程\实验\exp2\4\4\f1.cpp(39): error C2440: “=”: 无法从“CPrintPlugin *”转换为“IPrintPlugin *”
+  e:\2020.下\基于操作系统编程\实验\exp2\4\4\f1.cpp(39): note: 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+  f2.cpp
+e:\2020.下\基于操作系统编程\实验\exp2\4\4\iprintplugin.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\2020.下\基于操作系统编程\实验\exp2\4\4\iprintplugin.h(5): error C2059: 语法错误:“public”
+e:\2020.下\基于操作系统编程\实验\exp2\4\4\iprintplugin.h(5): error C2059: 语法错误:“:”
+e:\2020.下\基于操作系统编程\实验\exp2\4\4\iprintplugin.h(6): error C2059: 语法错误:“)”
+e:\2020.下\基于操作系统编程\实验\exp2\4\4\iprintplugin.h(8): error C2575: “Help”: 只有成员函数和基可以是虚拟的
+e:\2020.下\基于操作系统编程\实验\exp2\4\4\iprintplugin.h(8): error C2059: 语法错误:“常数”
+e:\2020.下\基于操作系统编程\实验\exp2\4\4\iprintplugin.h(9): error C2575: “Print”: 只有成员函数和基可以是虚拟的
+e:\2020.下\基于操作系统编程\实验\exp2\4\4\iprintplugin.h(9): error C2059: 语法错误:“常数”
+e:\2020.下\基于操作系统编程\实验\exp2\4\4\iprintplugin.h(10): error C2575: “GetID”: 只有成员函数和基可以是虚拟的
+e:\2020.下\基于操作系统编程\实验\exp2\4\4\iprintplugin.h(10): error C2059: 语法错误:“常数”
+e:\2020.下\基于操作系统编程\实验\exp2\4\4\iprintplugin.h(11): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+e:\2020.下\基于操作系统编程\实验\exp2\4\4\iprintplugin.h(11): error C2059: 语法错误:“}”
+e:\2020.下\基于操作系统编程\实验\exp2\4\4\f2.cpp(7): error C2504: “IPrintPlugin”: 未定义基类
+e:\2020.下\基于操作系统编程\实验\exp2\4\4\f2.cpp(39): error C2440: “=”: 无法从“CPrintPlugin *”转换为“IPrintPlugin *”
+  e:\2020.下\基于操作系统编程\实验\exp2\4\4\f2.cpp(39): note: 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+  IPrintPlugin.cpp
+e:\2020.下\基于操作系统编程\实验\exp2\4\4\iprintplugin.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\2020.下\基于操作系统编程\实验\exp2\4\4\iprintplugin.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\2020.下\基于操作系统编程\实验\exp2\4\4\iprintplugin.h(5): error C2059: 语法错误:“public”
+e:\2020.下\基于操作系统编程\实验\exp2\4\4\iprintplugin.h(5): error C2059: 语法错误:“:”
+e:\2020.下\基于操作系统编程\实验\exp2\4\4\iprintplugin.h(6): error C2059: 语法错误:“)”
+e:\2020.下\基于操作系统编程\实验\exp2\4\4\iprintplugin.h(8): error C2575: “Help”: 只有成员函数和基可以是虚拟的
+e:\2020.下\基于操作系统编程\实验\exp2\4\4\iprintplugin.h(8): error C2059: 语法错误:“常数”
+e:\2020.下\基于操作系统编程\实验\exp2\4\4\iprintplugin.h(9): error C2575: “Print”: 只有成员函数和基可以是虚拟的
+e:\2020.下\基于操作系统编程\实验\exp2\4\4\iprintplugin.h(9): error C2059: 语法错误:“常数”
+e:\2020.下\基于操作系统编程\实验\exp2\4\4\iprintplugin.h(10): error C2575: “GetID”: 只有成员函数和基可以是虚拟的
+e:\2020.下\基于操作系统编程\实验\exp2\4\4\iprintplugin.h(10): error C2059: 语法错误:“常数”
+e:\2020.下\基于操作系统编程\实验\exp2\4\4\iprintplugin.h(11): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+e:\2020.下\基于操作系统编程\实验\exp2\4\4\iprintplugin.h(11): error C2059: 语法错误:“}”
+e:\2020.下\基于操作系统编程\实验\exp2\4\4\iprintplugin.cpp(3): error C2027: 使用了未定义类型“IPrintPlugin”
+  e:\2020.下\基于操作系统编程\实验\exp2\4\4\iprintplugin.h(4): note: 参见“IPrintPlugin”的声明
+e:\2020.下\基于操作系统编程\实验\exp2\4\4\iprintplugin.cpp(4): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+e:\2020.下\基于操作系统编程\实验\exp2\4\4\iprintplugin.cpp(4): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+e:\2020.下\基于操作系统编程\实验\exp2\4\4\iprintplugin.cpp(4): error C2059: 语法错误:“}”
+e:\2020.下\基于操作系统编程\实验\exp2\4\4\iprintplugin.cpp(6): error C2027: 使用了未定义类型“IPrintPlugin”
+  e:\2020.下\基于操作系统编程\实验\exp2\4\4\iprintplugin.h(4): note: 参见“IPrintPlugin”的声明
+e:\2020.下\基于操作系统编程\实验\exp2\4\4\iprintplugin.cpp(7): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+e:\2020.下\基于操作系统编程\实验\exp2\4\4\iprintplugin.cpp(7): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+  main.cpp
+e:\2020.下\基于操作系统编程\实验\exp2\4\4\main.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\2020.下\基于操作系统编程\实验\exp2\4\4\cplugincontroller.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\2020.下\基于操作系统编程\实验\exp2\4\4\cplugincontroller.h(10): error C2059: 语法错误:“public”
+e:\2020.下\基于操作系统编程\实验\exp2\4\4\cplugincontroller.h(10): error C2059: 语法错误:“:”
+e:\2020.下\基于操作系统编程\实验\exp2\4\4\cplugincontroller.h(11): error C2062: 意外的类型“void”
+e:\2020.下\基于操作系统编程\实验\exp2\4\4\cplugincontroller.h(18): error C2059: 语法错误:“private”
+e:\2020.下\基于操作系统编程\实验\exp2\4\4\main.cpp(14): error C2079: “pc”使用未定义的 class“CPluginController”
+e:\2020.下\基于操作系统编程\实验\exp2\4\4\main.cpp(15): error C2065: “pc”: 未声明的标识符
+e:\2020.下\基于操作系统编程\实验\exp2\4\4\main.cpp(17): error C2181: 没有匹配 if 的非法 else
+e:\2020.下\基于操作系统编程\实验\exp2\4\4\main.cpp(20): error C2079: “pc”使用未定义的 class“CPluginController”
+e:\2020.下\基于操作系统编程\实验\exp2\4\4\main.cpp(25): error C2047: 非法的 default
+e:\2020.下\基于操作系统编程\实验\exp2\4\4\main.cpp(24): error C2043: 非法 break
+e:\2020.下\基于操作系统编程\实验\exp2\4\4\main.cpp(28): error C2043: 非法 break
+e:\2020.下\基于操作系统编程\实验\exp2\4\4\main.cpp(31): error C2059: 语法错误:“return”
+e:\2020.下\基于操作系统编程\实验\exp2\4\4\main.cpp(32): error C2059: 语法错误:“}”
+e:\2020.下\基于操作系统编程\实验\exp2\4\4\main.cpp(32): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+  正在生成代码...
