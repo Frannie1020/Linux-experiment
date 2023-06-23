@@ -1,6 +1,6 @@
 # Linux-experiment
 
-💡 Assignment requirements
+💡 Assignment requirements  
 1: Implement a number of document statistical analysis functions in the form of plug-ins. The functions to be implemented include at least  
 (1) Counting the number of lines in a given file  
 (2) Counting the number of words in a given file  
