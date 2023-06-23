@@ -1,4 +1,4 @@
-# Linux-experiment
+# Linux-experiment- Statistical analysis software for documents based on a plug-in framework structure
 
 💡 Assignment requirements  
 1: Implement a number of document statistical analysis functions in the form of plug-ins. The functions to be implemented include at least  
