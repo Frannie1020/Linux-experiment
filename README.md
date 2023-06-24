@@ -19,7 +19,7 @@
 (5) Counting the size of a given file  
 (6) Counting the size of all files in the specified directory with the specified suffix  
 
-💡 Test pictures (only a small parts are shown, since the pictures are numerous.)
+💡 Test pictures (only a small part of pictures are shown, since the pictures are numerous.)
 
 ![image](https://github.com/Frannie1020/Linux-experiment/assets/137517674/5bf4b4a5-86fa-4a07-afe1-96defc29ad8b)
 
