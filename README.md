@@ -1,6 +1,6 @@
 # Linux experiment_(Statistical analysis software for documents based on a plug-in framework structure)
 [![Author](https://img.shields.io/badge/Author-Frannie1020-blue.svg "Author")](https://Frannie1020.github.io "Author")
-[![Build Status](https://travis-ci.com/JoeyBling/yilia-plus-demo.svg?branch=master)](https://travis-ci.com/JoeyBling/yilia-plus-demo)
+[![Build Status](https://travis-ci.com/JoeyBling/yilia-plus-demo.svg?branch=master)](https://github.com/Frannie1020/Linux-experiment)
 
 
 ## Table of Contents
