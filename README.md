@@ -1,6 +1,17 @@
-# Linux-experiment- Statistical analysis software for documents based on a plug-in framework structure
+# Linux experiment_(Statistical analysis software for documents based on a plug-in framework structure)
+[![Author](https://img.shields.io/badge/Author-Frannie1020-blue.svg "Author")](https://Frannie1020.github.io "Author")
+[![Build Status](https://travis-ci.com/JoeyBling/yilia-plus-demo.svg?branch=master)](https://travis-ci.com/JoeyBling/yilia-plus-demo)
 
-💡 Assignment requirements  
+
+## Table of Contents
+
+- [Assignment requirements](#assignmentrequirements)
+- [Design and implementation](#designandimplementation)
+- [Test pictures](#Testpictures)
+
+
+
+## Assignment requirements  
 1: Implement a number of document statistical analysis functions in the form of plug-ins. The functions to be implemented include at least  
 (1) Counting the number of lines in a given file  
 (2) Counting the number of words in a given file  
@@ -10,7 +21,7 @@
 
 3: Plus: whenever a plugin run command is received, the plugin framework program can create a new process and let that process go to run the plugin. More plug-ins are implemented.  
 
-💡Design and implementation  
+## Design and implementation  
 1: The assignment requires three elements, I refer to the wc command in linux, and then implement an additional function that is to count the file size, and for the specified directory and non-specified directory each implement three functions. So a total of 6 plugins have been implemented. (Extra credit 1) where (4) (5) (6) are additional implemented functions.  
 (1) Counting the number of lines in a given file  
 (2) Counting the number of lines of all files in a given directory with a given suffix  
@@ -19,7 +30,7 @@
 (5) Counting the size of a given file  
 (6) Counting the size of all files in the specified directory with the specified suffix  
 
-💡 Test pictures (only a small part of pictures are shown, since the pictures are numerous.)
+## Test pictures (only a small part of pictures are shown, since the pictures are numerous.)
 
 ![image](https://github.com/Frannie1020/Linux-experiment/assets/137517674/5bf4b4a5-86fa-4a07-afe1-96defc29ad8b)
 
